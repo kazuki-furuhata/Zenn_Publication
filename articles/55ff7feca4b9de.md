@@ -1,5 +1,5 @@
 ---
-title: "【参加レポート】Google Cloud Data & AI Summit '25 Fall：データ分析は「エージェントと競争（共創）」する時代へ"
+title: "【参加レポート】Google Cloud Data & AI Summit '25 Fall：エージェントと共創する時代へ"
 emoji: "🔥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["GoogleCloud", "BigQuery", "Looker", "生成AI", "データ基盤"]
