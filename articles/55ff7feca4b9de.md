@@ -8,8 +8,10 @@ publication_name: mbk_digital
 ---
 ## 1. はじめに
 株式会社 MBK デジタルの古畑です。
-
 2025年11月27日、Google Cloud 主催の「Data & AI Summit '25 Fall」に参加してきました。 
+
+![イベント画像](/images/articles/55ff7feca4b9de_1.jpg)
+
 今回のテーマはズバリ、Data Agents（データエージェント）。
 
 これまでAIによる業務支援といえば、コードの補完や壁打ち相手といった役割が主でした。
